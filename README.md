@@ -357,7 +357,7 @@
 - `OOD-MAML`[Jeong et al.]\[NeurIPS 2020]**OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification**[[PDF](https://proceedings.neurips.cc/paper/2020/hash/28e209b61a52482a0ae1cb9f5959c792-Abstract.html)]\[[CODE](https://github.com/twj-KAIST/OOD-MAML)]
 
 ### Fine-tuning-based
-- `M-HOOD` [Wu et al.]\[TPAMI 2026 (accepted)]**Revisiting Out-of-Distribution Detection in Real-time Object Detection: From Benchmark Pitfalls to a New Mitigation Paradigm**[[PDF](https://arxiv.org/html/2503.07330v3)][[CODE](https://gricad-gitlab.univ-grenoble-alpes.fr/dnn-safety/m-hood)]
+
 - `SUPREME` [Wang et al.]\[arXiv 2025]**Mitigating the Modality Gap: Few-Shot Out-of-Distribution Detection with Multi-modal Prototypes and Image-Text Consistency**[[PDF](https://arxiv.org/abs/2502.00662)]
 - `GaCoOp` [Tong et al.]\[arXiv 2024]**Enhancing Few-Shot Out-of-Distribution Detection with Gradient Aligned Context Optimization**[[PDF](https://arxiv.org/abs/2411.15736)]
 - `CLIP-OS` [Sun et al.]\[arXiv 2024]**CLIP-Driven Outliers Synthesis for Few-Shot Out-of-Distribution Detection**[[PDF](https://arxiv.org/pdf/2404.00323)]
