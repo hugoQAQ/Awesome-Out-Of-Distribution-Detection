@@ -120,7 +120,7 @@
 
 ### OOD Synthesis
 
-- `M-HOOD` [Wu et al.]\[TPAMI 2025]**Revisiting Out-of-Distribution Detection in Real-time Object Detection: From Benchmark Pitfalls to a New Mitigation Paradigm**[[PDF](https://arxiv.org/html/2503.07330v3)][[CODE](https://gricad-gitlab.univ-grenoble-alpes.fr/dnn-safety/m-hood)]
+- `M-HOOD` [Wu et al.]\[TPAMI 2026 (accepted)]**Revisiting Out-of-Distribution Detection in Real-time Object Detection: From Benchmark Pitfalls to a New Mitigation Paradigm**[[PDF](https://arxiv.org/html/2503.07330v3)][[CODE](https://gricad-gitlab.univ-grenoble-alpes.fr/dnn-safety/m-hood)]
 - `POP` [Gong et al.]\[AAAI 2025]**Out-of-Distribution Detection with Prototypical Outlier Proxy**[[PDF](https://arxiv.org/pdf/2412.16884)][[CODE](https://github.com/gmr523/pop)]
 - `HamOS` [Li et al.]\[ICLR 2025]**Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection**[[PDF](https://arxiv.org/pdf/2501.16718)][[CODE](https://github.com/Fir-lat/HamOS_OOD)]
 - `Forte` [Ganguly et al.]\[[ICLR 2025]**Forte: Finding Outliers with Representation Typicality Estimation**[[PDF](https://arxiv.org/abs/2410.01322)]
@@ -416,7 +416,7 @@ openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp
 
 ### Object Detection
 
-- `M-HOOD` [Wu et al.]\[TPAMI 2025]**Revisiting Out-of-Distribution Detection in Real-time Object Detection: From Benchmark Pitfalls to a New Mitigation Paradigm**[[PDF](https://arxiv.org/html/2503.07330v3)][[CODE](https://gricad-gitlab.univ-grenoble-alpes.fr/dnn-safety/m-hood)]
+- `M-HOOD` [Wu et al.]\[TPAMI 2026 (accepted)]**Revisiting Out-of-Distribution Detection in Real-time Object Detection: From Benchmark Pitfalls to a New Mitigation Paradigm**[[PDF](https://arxiv.org/html/2503.07330v3)][[CODE](https://gricad-gitlab.univ-grenoble-alpes.fr/dnn-safety/m-hood)]
 - ` mmood3d`[Kösel et al.]\[IV 2024]**Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection**[[PDF](https://arxiv.org/abs/2404.15879)]\[[CODE](https://github.com/uulm-mrm/mmood3d)]
 
 - ` Proto-OOD`[Chen et al.]\[arxiv 2024]**Proto-OOD: Enhancing OOD Object Detection with Prototype Feature Similarity**[[PDF](https://arxiv.org/abs/2409.05466)]
